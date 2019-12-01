@@ -1,0 +1,2 @@
+C:\Users\ASUS\source\repos\zeynepezgierdemBbgodev\zeynepezgierdemBbgodev\obj\Debug\zeynepezgierdemBbgodev.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\zeynepezgierdemBbgodev\zeynepezgierdemBbgodev\obj\Debug\zeynepezgierdemBbgodev.csproj.CoreCompileInputs.cache
